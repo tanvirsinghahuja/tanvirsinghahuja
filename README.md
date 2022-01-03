@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 👋 My name is Tanvir
 
-Welcome to my Github
+Welcome to my Github 
+
+I'm an aspiring machine learning and data scientist enthusiast with an extensive background in early stage startups with focus UX/UI Design. I am currently looking for a co-op positions in data science industry in order to push my knowledge in the domain and grow!
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,3 +13,7 @@ Welcome to my Github
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Skills of the Trade
+
+HTML5  CSS3  Sass  JavaScript  Bootstrap  React  Ruby  Rails  SQL  Git  GitHub
