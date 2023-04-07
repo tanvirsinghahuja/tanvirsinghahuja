@@ -2,7 +2,7 @@
 
 <h1>Welcome to my Github </h1>
 
-I'm an aspiring machine learning and data scientist enthusiast with an extensive background in early stage fintech startups with focus UX/UI Design. I have an undergradute degree in Computer Science from Birla Institute of Technology and Sceience in Dubai and post-graduate in Business Analytics from Seneca College. I am graduate in [Applied A.I. Development Solutions](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-postgraduate-t431) postgraduate program at George Brown College which helped me began my journey to becoming a Data Scientist.
+I'm an data analyst with an extensive background in early stage fintech startups with focus UX/UI Design. I have an undergradute degree in Computer Science from Birla Institute of Technology and Sceience in Dubai and post-graduate in Business Analytics from Seneca College. I am graduate in [Applied A.I. Development Solutions](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-postgraduate-t431) postgraduate program at George Brown College which helped me began my journey to becoming a Data Scientist.
 
 Working on unique and challenging projects has enhanced my logical thinking capabilities and has enabled me to 'think differently'. As a data analyst, I can analyze complex data, identifying potential risks/opportunities and provide solutions. Something that I like about my domain, is that I get to work with a lot of different people from a wide range of disciplines. This helps my inquisitive nature - I am always curious to gain knowledge from everywhere I can, and I enjoy learning from other's experiences.
 
