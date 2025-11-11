@@ -2,11 +2,30 @@
 
 <h1>Welcome to my Github </h1>
 
-I'm an data analyst with an extensive background in early stage fintech startups with focus UX/UI Design. I have an undergradute degree in Computer Science from Birla Institute of Technology and Sceience in Dubai and post-graduate in Business Analytics from Seneca College. I am graduate in [Applied A.I. Development Solutions](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-postgraduate-t431) postgraduate program at George Brown College which helped me began my journey to becoming a Data Scientist.
+**EXECUTIVE SUMMARY**
+▪ Digital Product Owner with experience delivering innovative technological solutions & driving strategic initiatives.
+▪ Proven track record in optimizing operations and executing complex projects across diverse environments.
+▪ Expertise in Agile and Waterfall methodologies, with a focus on accessibility and building inclusive products.
+▪ Supported modernizing legacy systems & leading cross-functional teams to achieve measurable outcomes.
+▪ Adept at bridging business and technology gaps, managing multiple high-impact projects, and consistently delivering
+within scope, budget, and timeline constraints while driving organizational change.
 
-Working on unique and challenging projects has enhanced my logical thinking capabilities and has enabled me to 'think differently'. As a data analyst, I can analyze complex data, identifying potential risks/opportunities and provide solutions. Something that I like about my domain, is that I get to work with a lot of different people from a wide range of disciplines. This helps my inquisitive nature - I am always curious to gain knowledge from everywhere I can, and I enjoy learning from other's experiences.
+**CORE COMPETENCIES**
+Digital Strategy and Transformation | Change Management | Strategic Planning & Execution | Business-Technology
+Alignment | Executive Communication | Incident Management | Project & Program Management | Stakeholder
+Engagement | Agile & Waterfall Methodologies | Risk Mitigation & Compliance
 
-I have learnt to apply the skills to identify and collect meaningful data for analysis, conduct analysis of data and present meaningful results to help inform business decisions across the corporate as well as gain international exposure. I will be able to learn how to make decisions based on data and develop software’s and applications for data management. This experience will open my career options such as Data Scientist, Business analyst, Data analyst, Machine Learning Engineer, Computer system analyst, Information systems business analyst etc. 
+**TECHNICAL PROFICIENCIES**
+• Project Management: MS Suite, Confluence, Jira, Atlassian Enterprise Suite, Wrike, Planview, DocuSign, ServiceNow
+• Accessibility & UI tools: Lighthouse, Deque tools, Adobe Acrobat Pro, Mural, Adobe XD, Figma
+• Data & Analytics: CMS, Power BI, Tableau, Lucid Chart, Quicksights, Google Analytics 360
+• AI & Machine Learning: RBC Assist Pro, ChatGPT, Machine Learning Playground, IBM Natural Language Demo
+• Frameworks: Lean, Root Cause Analysis, Product Development Process, Jobs-To-Be-Done, Kano Model, Objectives and
+Key Results (OKR), Minimum Viable Product (MVP), Agile, Scrum, Kanban, Lean Analytics, Risk Assessment.
+• Skills: Product Decision Making, Problem Space Analysis, Customer Research, Research Hypothesis, Prioritization,
+Gantt Charts, Backlog Grooming, Sprint Planning, Standups, Retrospectives, User Stories, Defining Acceptance Criteria,
+Defining Epics, Calculating Velocity, Definition of Ready, Definition of Done, Agile Ceremonies, Wireframing,
+Prototyping, Usability Testing, Net Promoter Score (NPS), Product Retention Metrics, Communicating Metrics
 
 # Projects
 
